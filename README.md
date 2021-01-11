@@ -17,15 +17,15 @@ Este arquivo contém as instruções para o desafio da vaga de **Cientista de Da
 
 ## Questões
 
-Responda **todas** as perguntas abaixo em seu repositório **privado** - a primeira somente descritiva (*responder em seu README*), a segunda deve ser implementada num *script em Python*.
+Responda **todas** as perguntas abaixo em seu repositório **privado** - responda às partes descritivasem seu `README` e a implementação num Jupyter notebook.
 
 ### Projeção subestimada
 
-(a) (descritiva) O SimulaCovid, nosso simulador de demanda hospitalar por leitos enfermaria e UTI, está subestimando o número de internações por Covid-19 em diversos estados e municípios brasileiros. Leia com atenção o [código fonte disponibilziado neste repositório](/code) e a [metodologia do modelo](/methodology), e responda: o que pode estar acontecendo?
+1. (descritiva) O SimulaCovid, nosso simulador de demanda hospitalar por leitos enfermaria e UTI, está subestimando o número de internações por Covid-19 em diversos estados e municípios brasileiros. Leia com atenção o [código fonte disponibilziado neste repositório](/code) e a [metodologia do modelo](/methodology), e responda: o que pode estar acontecendo?
 
-(b) (descritiva/implementação) Como você resolveria esse problema? Indique seu raciocínio, hipóteses, testes realizados e implemente até onde possível com base nos dados da nosssa API.
+2. (descritiva/implementação) Como você resolveria esse problema? Indique seu raciocínio, hipóteses, testes realizados e implemente até onde possível com base nos dados da nosssa API.
 
-(c) (descritiva) Quais são as vantagens e desvantagens dessa solução? (Caso tenha descrito mais de uma solução acima, escolha a mais pertinente) Existe alguma dificuldade dessa solução ser implementada no código da ferramenta?
+3. (descritiva) Quais são as vantagens e desvantagens dessa solução? (Caso tenha descrito mais de uma solução acima, escolha a mais pertinente) Existe alguma dificuldade dessa solução ser implementada no código da ferramenta?
 
 
 #### Para referência:
