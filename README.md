@@ -17,24 +17,30 @@ Este arquivo contém as instruções para o desafio da vaga de **Cientista de Da
 
 ## Questões
 
-Responda **ambas** as perguntas abaixo em seu repositório **privado** - a primeira somente descritiva (*responder em seu README*), a segunda deve ser implementada num *script em Python*.
+Responda **todas** as perguntas abaixo em seu repositório **privado** - a primeira somente descritiva (*responder em seu README*), a segunda deve ser implementada num *script em Python*.
 
-#### 1. Pergunta 1? (descritiva)
+### Projeção subestimada
 
-- Responda esta pergunta de forma descritiva em seu *README*.
+(a) (descritiva) O SimulaCovid, nosso simulador de demanda hospitalar por leitos enfermaria e UTI, está subestimando o número de internações por Covid-19 em diversos estados e municípios brasileiros. Leia com atenção o [código fonte disponibilziado neste repositório](/code) e a [metodologia do modelo](/methodology), e responda: o que pode estar acontecendo?
+
+(b) (descritiva/implementação) Como você resolveria esse problema? Indique seu raciocínio, hipóteses, testes realizados e implemente até onde possível com base nos dados da nosssa API.
+
+(c) (descritiva) Quais são as vantagens e desvantagens dessa solução? (Caso tenha descrito mais de uma solução acima, escolha a mais pertinente) Existe alguma dificuldade dessa solução ser implementada no código da ferramenta?
 
 
-#### 2. pergunta 2? (Jupyter notebook)
+#### Para referência:
+- [FarolCovid](http://farolcovid.coronacidades.org): Plataforma que indicadores com base em dados abertos para monitoramento da situação da Covid-19 em municípios e estados.
+- [Repositório do Farol Covid](http://github.com/ImpulsoGov/farolcovid): Código fonte que roda por trás da ferramenta web.
 
-- Implemente este desafio num Jupyter notebook em seu repositório **privado**.
-- **Seu notebook deve conter no máximo 5 visualizações.**
-- **Todos os gráficos devem conter legenda e título. Junto a ele deve conter uma breve explicação da análise apresentada em Markdown**.
+#### Instruções para implementação
 
-Para conhecer:
-- O [FarolCovid](http://farolcovid.coronacidades.org) reúne indicadores com base em dados abertos para monitoramento da situação da Covid-19 em municípios e estados.
+Esperamos um código **bem documentado**, com a **descrição das análises realizadas** e **tópicos principais encontrados**. Foque no passo-a-passo do seu raciocínio - é isso que estamos interessadxs, e não nos resultados.
+
+- Implemente as análises de seu desafio num Jupyter notebook em seu repositório **privado**.
+
+- **Caso contenha gráficos: todos devem conter legenda e título, no máximo 5 visualizações ao todo.** Junto a cada gráfico deve conter uma breve explicação da análise apresentada em Markdown**.
+
 - Você tem total liberdade para enriquecer suas análises com dados de outras fontes - citando suas devidas referências.
-
-Esperamos um código bem documentado, com a descrição da análise realizada e tópicos principais encontrados. Queremos entender o passo-a-passo do seu raciocínio, não apenas os resultados.
 
 
 ### O que estamos avaliando
