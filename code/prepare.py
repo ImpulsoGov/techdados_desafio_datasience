@@ -1,3 +1,6 @@
+import numpy as np
+import pandas as pd
+
 # CAPACITY
 def _calculate_recovered(row, params):
     """
@@ -57,17 +60,6 @@ def prepare_simulation(row, place_id, config, place_specific_params):
     -------
     params : Dicionário de parâmetros de entrada do simulador.
     """
-    if place_id == "health_region_id":
-        rt_upper = 
-        place_specific_params = pd.read_csv("http://datasource.coronacidades.org/br/health_region_id/parameters").set_index(
-            place_id
-        )
-
-    if place_id == "state_num_id":
-        rt_upper = None
-        place_specific_params = pd.read_csv("http://datasource.coronacidades.org/br/states/parameters").set_index(
-            place_id
-        )
 
     # based on Alison Hill: 40% asymptomatic
     symtomatic = [
