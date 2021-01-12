@@ -17,11 +17,18 @@ Este arquivo contém as instruções para o desafio da vaga de **Cientista de Da
 
 ## Questões
 
-Responda **todas** as perguntas abaixo em seu repositório **privado** - responda às partes descritivasem seu `README` e a implementação num Jupyter notebook.
+Responda **todas** as perguntas abaixo em seu repositório **privado** -
+responda às partes descritivas em seu `README` e a implementação num
+Jupyter notebook.
 
 ### Projeção subestimada
 
-1. (descritiva) O SimulaCovid, nosso simulador de demanda hospitalar por leitos enfermaria e UTI, está subestimando o número de internações por Covid-19 em diversos estados e municípios brasileiros. Leia com atenção o [código fonte disponibilziado neste repositório](/code) e a [metodologia do modelo](/methodology), e responda: o que pode estar acontecendo?
+1. (descritiva) O SimulaCovid, nosso simulador de demanda hospitalar por
+   leitos enfermaria e UTI, está subestimando o número de internações
+   por Covid-19 em diversos estados brasileiros. Leia com
+   atenção o [código fonte disponibilziado neste repositório](/code) e
+   as [instruções do cálculo de projeção no notebook](/simulation.ipynb), e responda: o que pode
+   estar acontecendo?
 
 2. (descritiva/implementação) Como você resolveria esse problema? Indique seu raciocínio, hipóteses, testes realizados e implemente até onde possível com base nos dados da nosssa API.
 
@@ -36,12 +43,14 @@ Responda **todas** as perguntas abaixo em seu repositório **privado** - respond
 
 Esperamos um código **bem documentado**, com a **descrição das análises realizadas** e **tópicos principais encontrados**. Foque no passo-a-passo do seu raciocínio - é isso que estamos interessadxs, e não nos resultados.
 
-- Implemente as análises de seu desafio num Jupyter notebook em seu repositório **privado**.
+- Implemente as análises de seu desafio num Jupyter notebook em seu
+  repositório **privado**. Fique a vontade para utilizar o notebook de
+  [instruções do cálculo de projeção](/simulation.ipynb)
+  e este repositório como base.
 
 - **Caso contenha gráficos: todos devem conter legenda e título, no máximo 5 visualizações ao todo.** Junto a cada gráfico deve conter uma breve explicação da análise apresentada em Markdown**.
 
 - Você tem total liberdade para enriquecer suas análises com dados de outras fontes - citando suas devidas referências.
-
 
 ### O que estamos avaliando
 
