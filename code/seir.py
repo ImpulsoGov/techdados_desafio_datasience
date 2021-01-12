@@ -10,7 +10,6 @@ def prepare_states(population_params, place_specific_params, disease_params):
 
     Params
     --------
-
     population_param: dict
            Explicit population parameters:
                     - N: population
@@ -212,8 +211,7 @@ def entrypoint(
     phase: dict
        Scenario and days to run 
             - scenario
-            - date
-        
+            - date      
 
     Return
     -------
