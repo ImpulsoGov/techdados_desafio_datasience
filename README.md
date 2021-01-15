@@ -9,7 +9,7 @@ Este arquivo contém as instruções para o desafio da vaga de **Cientista de Da
 - Esta é uma fase eliminatória do processo seletivo;
 - **Seu desafio deve ser implementado num repositório *privado* e enviado no [formulário](ADD) até domingo (20/01/2021), às 23:59**. Uma vez preenchido o formulário, nós enviaremos um email com a confirmação do recebimento.
 - O repositório **privado** deve estar compartilhado com os emails: 
-  - anapaula@impulsogov.org
+  - araceli@impulsogov.org
   - fernanda@impulsogov.org
 - Caso seja escolhido(a), o resultado de seu desafio pode ser integrado em nossa ferramenta.
 
