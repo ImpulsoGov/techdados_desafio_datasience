@@ -7,7 +7,7 @@ Este arquivo contém as instruções para o desafio da vaga de **Cientista de Da
 - A ImpulsoGov repudia qualquer forma de cópia de código sem as devidas referências à fonte - esperamos bom senso quanto à utilização de trechos de códigos de outrem;
 - Os dados fornecidos aqui são de propriedade da ImpulsoGov;
 - Esta é uma fase eliminatória do processo seletivo;
-- **Seu desafio deve ser implementado num repositório *privado* e enviado no [formulário](ADD) até quarta (20/01/2021), às 23:59**. Uma vez preenchido o formulário, nós enviaremos um email com a confirmação do recebimento.
+- **Seu desafio deve ser implementado num repositório *privado* até quarta (20/01/2021), às 23:59**. Uma vez preenchido o formulário, nós enviaremos um email com a confirmação do recebimento.
 - O repositório **privado** deve estar compartilhado com os emails: 
   - araceli@impulsogov.org
   - fernanda@impulsogov.org
